@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdoProg.a  CMakeFiles/doProg.dir/doProg.c.o
+/usr/bin/ranlib libdoProg.a

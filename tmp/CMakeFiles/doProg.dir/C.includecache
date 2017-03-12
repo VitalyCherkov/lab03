@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vcherkov/prep/lab03/doProg.c
+doProg.h
+/home/vcherkov/prep/lab03/doProg.h
+
+/home/vcherkov/prep/lab03/doProg.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+list.h
+/home/vcherkov/prep/lab03/list.h
+
+/home/vcherkov/prep/lab03/list.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

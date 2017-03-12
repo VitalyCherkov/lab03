@@ -1,0 +1,5 @@
+/home/vcherkov/prep/lab03/tmp/CMakeFiles/edit_cache.dir
+/home/vcherkov/prep/lab03/tmp/CMakeFiles/doProg.dir
+/home/vcherkov/prep/lab03/tmp/CMakeFiles/list.dir
+/home/vcherkov/prep/lab03/tmp/CMakeFiles/rebuild_cache.dir
+/home/vcherkov/prep/lab03/tmp/CMakeFiles/main.dir
